@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 The code was originally run using Python 3.6
 
-# Download and prerpocess the data
+# Download and prepocess the data
 To download the Trustpilot Corpus, run the `dl_trustpilot.sh` script and process with:
 ```
 python prepare_data.py --data data/trustpilot/denmark.auto-adjusted_gender.NUTS-regions.jsonl.tmp --mode demographic --balanced --split_rand --threshold 500
