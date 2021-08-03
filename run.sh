@@ -1,0 +1,1 @@
+python train_mlp.py --data data/trustpilot/germany_demographics --hidden-dim 64 --embed-dim 32 --num-epochs 20 --batch-size 8 --pruning_pct 0.35 --model mlp --num-pruning-iter 20 --bidirectional --pruning_method magnitude --pruning_structure layerwise --dro
