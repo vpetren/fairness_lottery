@@ -46,7 +46,7 @@ If you found this repository useful for your own publication, please cite the or
 ```
 @inproceedings{hansen-sogaard-2021-lottery,
     title = "Is the Lottery Fair? Evaluating Winning Tickets Across Demographics",
-    author = "\textbf{Hansen}, \textbf{Victor Petr{\'e}n Bach}  and
+    author = "Hansen, Victor Petr{\'e}n Bach  and
       S{\o}gaard, Anders",
     booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
     month = aug,
